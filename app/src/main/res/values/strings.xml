@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">About Me</string>
-    <string name="my_name">Adam G</string>
-    <string name="yellow_dupaa">yellow dupa</string>
+    <string name="my_name">Adam</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque delectus dignissimos, dolor dolore doloribus enim fugiat iure iusto nesciunt officia pariatur perferendis, quae reprehenderit sint soluta tempora veritatis. Enim, quisquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci distinctio soluta totam. Dolor dolore error expedita fugiat nostrum nulla quas reprehenderit. Consectetur error inventore laborum odio quos saepe velit, voluptas. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci cupiditate fuga non nulla pariatur quis tempore? Accusamus accusantium aliquam asperiores corporis culpa doloremque et laudantium, mollitia nesciunt quasi recusandae totam.</string>
+    <string name="yellow_dupaa">desc</string>
+    <string name="dupeczka">dupeczka</string>
+    <string name="action_button">Click</string>
+    <string name="done_text">done</string>
 </resources>
